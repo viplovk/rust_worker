@@ -1,0 +1,6 @@
+{
+  "name": "Rust DSA Lab",
+  "description": "Interactive Data Structures & Algorithms Visualizer and Complexity Auditor powered by Rust and WebAssembly architecture",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
